@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "mongodb": "^6.20.0"
+  },
+  "name": "mongodb-data-layer-fundamentals-and-advanced-techniques-kossie-dev",
+  "version": "1.0.0",
+  "description": "Before you begin this assignment, please make sure you have the following installed:",
+  "main": "insert_books.js",
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Kossie-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Kossie-dev/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-Kossie-dev#readme"
+}

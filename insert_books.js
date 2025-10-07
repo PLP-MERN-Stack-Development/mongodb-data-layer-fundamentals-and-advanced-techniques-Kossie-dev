@@ -131,6 +131,106 @@ const books = [
     in_stock: true,
     pages: 342,
     publisher: 'Thomas Cautley Newby'
+  },
+  {
+    title: "The Silent Patient",
+    author: "Alex Michaelides",
+    genre: "Thriller",
+    published_year: 2019,
+    price: 15.99,
+    in_stock: true,
+    pages: 336,
+    publisher: "Celadon Books"
+  },
+  {
+    title: "Where the Crawdads Sing",
+    author: "Delia Owens",
+    genre: "Literary Fiction",
+    published_year: 2018,
+    price: 18.50,
+    in_stock: true,
+    pages: 384,
+    publisher: "G.P. Putnam's Sons"
+  },
+  {
+    title: "Project Hail Mary",
+    author: "Andy Weir",
+    genre: "Science Fiction",
+    published_year: 2021,
+    price: 22.99,
+    in_stock: true,
+    pages: 496,
+    publisher: "Ballantine Books"
+  },
+  {
+    title: "The Martian",
+    author: "Andy Weir",
+    genre: "Science Fiction",
+    published_year: 2011,
+    price: 12.99,
+    in_stock: false,
+    pages: 384,
+    publisher: "Crown Publishing"
+ },
+ {
+    title: "Sapiens: A Brief History of Humankind",
+    author: "Yuval Noah Harari",
+    genre: "Non-Fiction",
+    published_year: 2014,
+    price: 16.95,
+    in_stock: true,
+    pages: 512,
+    publisher: "Harper"
+  },
+  {
+    title: "The Da Vinci Code",
+    author: "Dan Brown",
+    genre: "Thriller",
+    published_year: 2003,
+    price: 10.50,
+    in_stock: true,
+    pages: 454,
+    publisher: "Doubleday"
+ },
+ {
+    title: "Educated: A Memoir",
+    author: "Tara Westover",
+    genre: "Biography",
+    published_year: 2018,
+    price: 14.99,
+    in_stock: true,
+    pages: 352,
+    publisher: "Random House"
+  },
+  {
+    title: "Atomic Habits",
+    author: "James Clear",
+    genre: "Self-Help",
+    published_year: 2018,
+    price: 17.00,
+    in_stock: false,
+    pages: 320,
+    publisher: "Penguin"
+  },
+  {
+    title: "Circe",
+    author: "Madeline Miller",
+    genre: "Fantasy",
+    published_year: 2018,
+    price: 13.99,
+    in_stock: true,
+    pages: 393,
+    publisher: "Little, Brown and Company"
+  },
+  {
+    title: "A Game of Thrones",
+    author: "George R.R. Martin",
+    genre: "Fantasy",
+    published_year: 1996,
+    price: 9.99,
+    in_stock: true,
+    pages: 694,
+    publisher: "Bantam Spectra"
   }
 ];
 
